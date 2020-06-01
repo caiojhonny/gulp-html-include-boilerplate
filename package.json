@@ -1,0 +1,11 @@
+{
+  "name": "gulp-html-include-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.2.2"
+  }
+}

@@ -1,5 +1,5 @@
 # gulp-html-include-boilerplate
-A simple boilerplate using gulp-file-include and browser-sync
+A simple boilerplate using gulp-file-include, browser-sync and gulp-sass
 
 ## Install the packages
 ```
@@ -18,3 +18,5 @@ yarn dev
 [gulp-file-include](https://www.npmjs.com/package/gulp-file-include)
 
 [browser-sync](https://www.browsersync.io/docs/gulp)
+
+[gulp-sass](https://www.npmjs.com/package/gulp-sass)

@@ -8,7 +8,7 @@ yarn
 
 ## Run the gulp command
 ```
-yarn gulp
+yarn dev
 ```
 
 ## Help Links
